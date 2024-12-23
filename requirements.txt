@@ -1,0 +1,5 @@
+python-pptx
+requests>=2.31.0
+PyQt6>=6.6.1
+Pillow>=9.0.0
+lxml>=4.9.0 

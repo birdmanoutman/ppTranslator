@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+temp_analysis/
+recent_files.json
+*.pptx
+ollama/models/
+ollama/ollama-windows-amd64.zip
+ollama/start.sh
+ollama/start.ps1
+
+# Non-core files
+ppt_translator.py
+test_ppt_layout.py
+ppt_layout.py
+ppt_compare.py
+test_ppt_layout.py
+test_ollama.py
+
+# Test files
+test_*.py
+*_test.py
+
+# Logs
+*.log
+
+# Temporary files
+temp_*
+*.tmp
